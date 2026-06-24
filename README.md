@@ -26,7 +26,7 @@ Currently pursuing an *Advanced Diploma in Clinical Research* and targeting entr
 | Repo | What it does |
 |------|-------------|
 | [💊 benzimidazole-anti-tb-insilico](https://github.com/sohamugale26/benzimidazole-anti-tb-insilico) | Full in silico pipeline for anti-TB lead discovery — docking, ADMET, virtual screening |
-| [📦 perforated-blister-packaging](https://github.com/YOUR_USERNAME/perforated-blister-packaging) | Research & documentation behind my granted pharmaceutical patent (2026) |
+| [🧴 anti-dandruff-serum-formulation](https://github.com/YOUR_USERNAME/anti-dandruff-serum-formulation) | Formulation study with stability, pH, viscosity & efficacy data |
 | [🧴 anti-dandruff-serum-formulation](https://github.com/YOUR_USERNAME/anti-dandruff-serum-formulation) | Formulation study with stability, pH, viscosity & efficacy data |
 
 ---
